@@ -1,18 +1,18 @@
 {
-  "name": "inuit-responsive-widths",
+  "name": "zomars-inuit-responsive-widths",
   "version": "0.3.0",
   "description": "Responsively controlled width classes for the inuitcss framework",
   "main": "_trumps.widths-responsive.scss",
   "repository": {
     "type": "git",
-    "url": "https://github.com/inuitcss/trumps.widths-responsive.git"
+    "url": "https://github.com/zomars/trumps.widths-responsive.git"
   },
   "author": "Harry Roberts <harry@csswizardry.com>",
   "license": "Apache 2",
   "bugs": {
-    "url": "https://github.com/inuitcss/trumps.widths-responsive/issues"
+    "url": "https://github.com/zomars/trumps.widths-responsive/issues"
   },
-  "homepage": "https://github.com/inuitcss/trumps.widths-responsive",
+  "homepage": "https://github.com/zomars/trumps.widths-responsive",
   "keywords": [
     "inuitcss",
     "oocss",
