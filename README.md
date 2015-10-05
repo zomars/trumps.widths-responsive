@@ -5,11 +5,11 @@ module](https://github.com/inuitcss/trumps.widths).
 
 Install using Bower:
 
-    $ bower install --save zomars-inuit-widths-responsive
+    $ bower install --save ancla-inuit-widths-responsive
 
 Install using npm:
 
-    $ npm install --save zomars-inuit-widths-responsive
+    $ npm install --save ancla-inuit-widths-responsive
 
 
 `widths-responsive` loops through the breakpoints defined in
